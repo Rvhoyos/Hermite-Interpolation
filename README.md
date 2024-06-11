@@ -55,3 +55,4 @@ This README provides a comprehensive overview of Hermite interpolation, includin
 ## Running The Code
 Run the NASA Test file test case 1.
 Read JAVA docs or the code to see how to call with your own data. 
+- TODO... Maven and JUnit instructions.
