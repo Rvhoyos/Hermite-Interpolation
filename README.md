@@ -11,7 +11,7 @@
 	- Given a set of n+1 data points, 
 		- Polynomial interpolation finds a polynomial of degree at most **n** that passes through all these points.
 # Note
->**Hermite interpolation** resources referenced in the implementation process can be found below under the **References** section below. This implementation of a **Hermite interpolation** is tested against **NASA**'s  I/O Example posted [here](https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/FORTRAN/spicelib/hrmesp.html).  The final version of this interpolation calculator will hopefully return the entire interpolated polynomial and its derivative at given points. Any missing functionality is outlined by **todo**'s within the code and will be added to issues soon. 
+>**Hermite interpolation** resources referenced in the implementation process can be found below under the **References**. This implementation of a **Hermite interpolation** is tested against **NASA**'s  I/O Example posted [here](https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/FORTRAN/spicelib/hrmesp.html).  The final version of this interpolation calculator will hopefully return the entire interpolated polynomial and its derivative at given points. Any missing functionality is outlined by **todo**'s within the code and will be added to issues soon. 
 # **Hermite** Interpolation
 **Hermite** interpolation is a type of polynomial interpolation where both the function values and the derivatives are matched at given points. 
 This makes it particularly useful when the **slope** of the function is also known at the **data points**, providing a more accurate and smooth **approximation** (*interpolation*).
