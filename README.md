@@ -51,3 +51,7 @@ $$H\prime_{2n+1}(x_{i}) =y\prime_{i} \text{ = Hermite interpolated polynomial de
 ---
 
 This README provides a comprehensive overview of Hermite interpolation, including theoretical background, implementation details, and testing. If you need further modifications or have any questions, feel free to ask!
+
+## Running The Code
+Run the NASA Test file test case 1.
+Read JAVA docs or the code to see how to call with your own data. 
