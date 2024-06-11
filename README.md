@@ -1,7 +1,7 @@
 
 # Background
 - Why?
-- - I enjoy coding in JAVA and doing math.
+  - I enjoy coding in JAVA and doing math.
   - I hope you enjoy this too.
 - **What** is interpolation?
 	- Interpolation is a method of estimating unknown values that fall **between** known values. 
